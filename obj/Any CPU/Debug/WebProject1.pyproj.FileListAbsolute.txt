@@ -1,0 +1,2 @@
+C:\Users\Dasha\source\repos\liga\mobile\WebProject1\WebProject1\obj\Any CPU\Debug\WebProject1.pyproj.SuggestedBindingRedirects.cache
+C:\Users\Dasha\source\repos\liga\mobile\WebProject1\WebProject1\obj\Any CPU\Debug\WebProject1.pyproj.CoreCompileInputs.cache
